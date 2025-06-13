@@ -1,6 +1,3 @@
-# Copyright © 2019 by Spectrico
-# Licensed under the MIT License
-# Based on the tutorial by Adrian Rosebrock: https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
 # Usage: $ python car_color_classifier_yolo3.py --image cars.jpg
 
 # import the necessary packages
