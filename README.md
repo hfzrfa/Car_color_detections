@@ -1,5 +1,5 @@
 ## Input
-(cars.jpg)
+![input](cars.jpg)
 
 ## Output
-(output.jpg)
+![outpuy](output.jpg)
