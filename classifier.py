@@ -1,6 +1,3 @@
-# Copyright © 2019-2020 by Spectrico
-# Licensed under the MIT License
-
 import numpy as np
 import json
 #import tensorflow as tf
